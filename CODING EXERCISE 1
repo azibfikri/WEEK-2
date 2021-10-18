@@ -12,7 +12,7 @@ public class DailyLife {
 		System.out.println("Evening2 - After reaching my food I would change my shirt and prepare for my evening exercise");
 		System.out.println("Evening3 - Just before 6.45 PM, I take shower ");
 		System.out.println("Night - After maghrib, i check my list what to do in the next days and check what assignment should i do or prepare");
-		System.out.println("Niht - After Isha' i finish my work or studies and get ready to sleep");
+		System.out.println("Niht - After Isha' i finish my programming work and studies and get ready to sleep");
 
 	}
 
